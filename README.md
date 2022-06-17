@@ -1,6 +1,6 @@
 ## FreshCollect
 
-FreshCollect is a mobile web app developed by three Le Wagon students as their final Project. Check out the result here: [FreshCollect](http://www.fresh-collect.xyz). Important! The design is optimised for mobile only. So switch to the mobile view, sign up and let's go! 
+FreshCollect is a mobile web app developed by three Le Wagon students as their final Project. Check out the result here: [FreshCollect](http://www.fresh-collect.xyz). Sign up and let's go! 
 <br>
 
 ###### Description 
